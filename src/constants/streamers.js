@@ -27,7 +27,7 @@ export const streamers = [
     isLive: false,
     tags: ['miedo', 'platica'],
     connected: 5,
-    cover: 'https://static-cdn.jtvnw.net/ttv-boxart/2085980140_IGDB-285x380.jpg',
+    cover: 'https://static-cdn.jtvnw.net/ttv-boxart/1337444628-285x380.jpg',
   },
   {
     name: 'Ache',
@@ -93,7 +93,7 @@ export const streamers = [
     isLive: false,
     tags: ['miedo', 'platica'],
     connected: 5,
-    cover: 'https://www.twitch.tv/directory/category/mario-party-superstars',
+    cover: 'https://static-cdn.jtvnw.net/ttv-boxart/1337444628-285x380.jpg',
   },
   {
     name: 'Ache',
@@ -159,7 +159,7 @@ export const streamers = [
     isLive: false,
     tags: ['miedo', 'platica'],
     connected: 5,
-    cover: 'https://static-cdn.jtvnw.net/ttv-boxart/2085980140_IGDB-285x380.jpg',
+    cover: 'https://static-cdn.jtvnw.net/ttv-boxart/1337444628-285x380.jpg',
   },
   {
     name: 'Ache',
@@ -225,7 +225,7 @@ export const streamers = [
     isLive: false,
     tags: ['miedo', 'platica'],
     connected: 5,
-    cover: 'https://www.twitch.tv/directory/category/mario-party-superstars',
+    cover: 'https://static-cdn.jtvnw.net/ttv-boxart/1337444628-285x380.jpg',
   },
   {
     name: 'Ache',
@@ -291,7 +291,7 @@ export const streamers = [
     isLive: false,
     tags: ['miedo', 'platica'],
     connected: 5,
-    cover: 'https://static-cdn.jtvnw.net/ttv-boxart/2085980140_IGDB-285x380.jpg',
+    cover: 'https://static-cdn.jtvnw.net/ttv-boxart/1337444628-285x380.jpg',
   },
   {
     name: 'Ache',
@@ -357,7 +357,7 @@ export const streamers = [
     isLive: false,
     tags: ['miedo', 'platica'],
     connected: 5,
-    cover: 'https://www.twitch.tv/directory/category/mario-party-superstars',
+    cover: 'https://static-cdn.jtvnw.net/ttv-boxart/1337444628-285x380.jpg',
   },
   {
     name: 'Ache',

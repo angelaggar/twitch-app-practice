@@ -1,10 +1,4 @@
-import clsx from 'clsx'
-import IsLogged from './IsLogged'
-
 export default function StreamerSideBar(props) {
-  const token = localStorage.getItem('token')
-  
-
   return (
     <div className='grid grid-flow-col justify-center items-center p-2 lg:justify-between'>
       <div className='flex items-center'>
